@@ -1,6 +1,6 @@
 # Wordle
 
-A browser-based word guessing game. Guess the 5-letter word in 6 tries.
+A browser-based word guessing game. Guess the 5-letter word 
 
 ## How to Play
 
